@@ -135,7 +135,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=sanket-sonwane.sanket-sonwane" alt="Visitor Badge"/>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sanket-sonwane.sanket-sonwane" alt="visitors"/>
   <br/>
   <i>Thank you for visiting! 🚀</i>
 </p>
