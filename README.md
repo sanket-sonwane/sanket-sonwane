@@ -129,8 +129,8 @@
 ## 🔗 Let’s Connect
 
 - 🌐 [Portfolio](https://sanket-sonwane-portfolio.vercel.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/sanket-sonwane/)
-- 📫 Email: [sanketsonwane17@gmail.com](mailto:sanketsonwane17@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/sanket--sonwane/)
+- 📫 Email: [sanketsonwane17@gmail.com](mailto:sanketsonwane512@gmail.com)
 
 ---
 
