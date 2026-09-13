@@ -6,8 +6,8 @@
 <h1 align="center">Hi, I'm Sanket! 🚀</h1>
 
 <p align="center">
-  <b>Full Stack Developer | Web3 Enthusiast | Building the Future</b><br/>
-  <a href="https://sanket-sonwane-portfolio.vercel.app" target="_blank">🌐 Portfolio</a>
+  <b>AI Engineer</b><br/>
+  <a href="https://sanket--sonwane.vercel.app" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
